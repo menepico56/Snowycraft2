@@ -1,0 +1,31 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.248.80.104
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1744662452589
+  login: 1744662379202
+money: '0'
+last-account-name: nashesupernashe
+logoutlocation:
+  world: 1f88ad13-2583-41cb-9c7b-dc082c28fd38
+  world-name: spawn
+  x: -80.14396482367874
+  y: -56.0
+  z: -54.080798628571486
+  yaw: 81.20504760742188
+  pitch: 14.748844146728516
+confirm-clear: false
